@@ -2,7 +2,7 @@
 
 This is my personal project to learning OpenCV with python. The idea is count how many fingers are raised
 
-![Example of execution](https://github.com/KitsuneSemCalda/OpenCV-finger-count/assets/example.png)
+![Example of execution](https://github.com/KitsuneSemCalda/OpenCV-finger-count/blob/master/assets/example.png)
 
 ## Install
 
